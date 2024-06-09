@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://raffeodui.github.io/sitemap.html
+Sitemap: https://raffeodui.github.io/app/sitemap.html
+Sitemap: https://raffeodui.github.io/assets/sitemap.html
+Sitemap: https://raffeodui.github.io/css/sitemap.html
+Sitemap: https://raffeodui.github.io/includes/sitemap.html
+Sitemap: https://raffeodui.github.io/src/sitemap.html
